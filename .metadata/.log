@@ -232,3 +232,13 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2016-04-21 22:39:41.972
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui 4 4 2016-04-21 22:44:35.988
+!MESSAGE Conflicting handlers for org.eclipse.jdt.debug.ui.localJavaShortcut.run: {org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@68d9d5b3} vs {org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@5be0cb4}
+
+!ENTRY org.eclipse.ui 4 4 2016-04-21 22:44:35.989
+!MESSAGE Conflicting handlers for org.eclipse.jdt.debug.ui.localJavaShortcut.debug: {org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@6cc1da7b} vs {org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@439a0f0}
+
+!ENTRY org.eclipse.core.net 4 0 2016-04-21 22:45:30.814
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'The proxy auto-configuration script could not be downloaded
+' #12167.
