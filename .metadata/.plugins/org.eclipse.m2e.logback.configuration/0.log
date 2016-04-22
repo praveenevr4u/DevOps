@@ -559,3 +559,19 @@
 2016-04-22 11:43:34,638 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-04-22 11:43:34,641 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-04-22 11:43:34,642 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\GIT\Praveen\src\test\resources
+2016-04-22 11:49:49,968 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Development\GIT\DevOps\pom.xml
+2016-04-22 11:49:50,063 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: .com.DevOps:DevOps:0.0.1-SNAPSHOT @ C:\Development\GIT\DevOps\pom.xml.
+2016-04-22 11:49:50,132 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DevOps/src/main/java
+2016-04-22 11:49:50,132 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DevOps/src/main/resources
+2016-04-22 11:49:50,133 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DevOps/src/test/java
+2016-04-22 11:49:51,966 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-04-22 11:49:52,232 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-22 11:49:52,233 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 11:49:52,235 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-22 11:49:52,236 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\GIT\DevOps\src\test\resources
+2016-04-22 11:50:09,684 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Development\GIT\DevOps
+2016-04-22 11:50:09,685 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -s C:\Development\maven-3.3.9\conf\settings.xml install
+2016-04-22 11:50:12,731 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-22 11:50:12,733 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 11:50:12,734 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-04-22 11:50:12,735 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Development\GIT\DevOps\src\test\resources
