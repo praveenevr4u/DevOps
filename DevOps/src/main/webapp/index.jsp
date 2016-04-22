@@ -1,5 +1,6 @@
 <html>
 <body>
-<h3>Hello World - This is a Sample DevOps Application-Praveen </h3>
+<h1>Hello World  </h1>
+<h2>This is a Sample DevOps Application-Praveen </h2>
 </body>
 </html>
