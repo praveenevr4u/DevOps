@@ -374,3 +374,9 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 4 4 2016-04-22 14:45:59.486
 !MESSAGE Conflicting handlers for org.eclipse.jdt.debug.ui.localJavaShortcut.debug: {org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@4101d2c7} vs {org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension$LaunchCommandHandler@466d87a1}
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-04-22 14:49:17.530
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-04-22 14:49:17.542
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
