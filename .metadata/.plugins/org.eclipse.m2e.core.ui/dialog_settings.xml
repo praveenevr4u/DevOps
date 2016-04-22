@@ -2,12 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.Devops"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="DevOps-Maven"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -34,6 +32,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -45,6 +44,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Development\GIT"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -57,10 +57,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.DevOps.DevOps"/>
+			<item value="com.DevOps.Praveen"/>
 		</list>
 		<list key="groupId">
+			<item value=".com.DevOps"/>
 		</list>
 		<list key="artifactId">
+			<item value="DevOps"/>
+			<item value="Praveen"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
